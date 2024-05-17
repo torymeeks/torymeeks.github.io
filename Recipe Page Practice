@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <header>Simple Omelette Recipe
+        <p>An easy and quick dish, perfect for any meal. This classic omelette combines beaten eggs cooked to perfection, optionally filled with your choice of cheese, vegetables, or meats.</p>
+    </header>
+
+
+    <div>
+    <ul>Preparation Time
+    <li><strong>Total:</strong>Approximately 10 minutes</li>
+    <li><strong>Preparation:</strong>5 minutes</li>
+    <li><strong>Cooking:</strong>5 minutes</li>
+    </ul>
+  </div>
+
+
+
+
+</body>
+
+</html>
